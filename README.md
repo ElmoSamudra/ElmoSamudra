@@ -2,6 +2,7 @@
 
 <!--
 **ElmoSamudra/ElmoSamudra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
 
 - 🔭 I’m currently working on improving my data analysis skills and web development!
 - 🌱 I’m currently learning data cleansing techniques and front end web development frameworks!
@@ -11,5 +12,7 @@
 - 📫 How to reach me: https://www.facebook.com/shawn.samudra.18/
 - ⚡ Fun fact: I like investing too!
 
+
 THE END
--->
+
+PS. Yeah I know this looks basic.. I'll work on it when I can! Don't you worry!
