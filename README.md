@@ -18,5 +18,3 @@
 
 
 THE END
-
-PS. Yeah I know this looks basic.. I'll work on it when I can! Don't you worry!
