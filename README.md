@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on anything fun from the fields above!
 
-- 💬 Ask me anything about badminton/meditation.
+- 💬 Ask me anything about badminton.
 
 - 📫 How to reach me: 
     -[Facebook](https://www.facebook.com/shawn.samudra.18/)
